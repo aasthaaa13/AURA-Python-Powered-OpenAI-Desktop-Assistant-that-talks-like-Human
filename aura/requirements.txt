@@ -1,0 +1,14 @@
+# --- AURA HUD (main.py) ---------------------------------------------------
+PySide6>=6.6,<7          # desktop interface
+psutil>=5.9,<8           # CPU / memory / disk / battery / network metrics
+openai>=1.40             # OpenAI AI engine (default; optional at runtime)
+anthropic>=0.40          # Claude AI engine (alternative; optional)
+SpeechRecognition>=3.10  # speech-to-text (uses sounddevice, not PyAudio)
+
+# --- shared -----------------------------------------------------------------
+numpy>=1.24,<3
+sounddevice>=0.4.6,<0.6  # microphone capture + PCM playback
+python-dotenv>=1.0,<2
+
+# --- clap listener (aura.py) ----------------------------------------------
+elevenlabs>=1.50,<3      # optional voice for both the HUD and the clap listener
