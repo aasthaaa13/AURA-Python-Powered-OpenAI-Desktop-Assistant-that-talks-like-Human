@@ -1,13 +1,7 @@
-# AURA — AI-Powered Desktop Assistant
+# 𝐀𝐔𝐑𝐀 — 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭
+Your Desktop. Your Commands. Your Intelligent Assistant.</strong>
+A Python-powered desktop assistant featuring a futuristic HUD interface, voice interaction, AI engine integration, and real-time system monitoring.
 
-<p align="center">
-  <strong>Your Desktop. Your Commands. Your Intelligent Assistant.</strong>
-</p>
-
-<p align="center">
-  A Python-powered desktop assistant featuring a futuristic HUD interface,
-  voice interaction, AI engine integration, and real-time system monitoring.
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python"/>
@@ -28,8 +22,7 @@
 
 ---
 
-##  Overview
-
+##  𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
 **AURA** is an AI-powered desktop assistant developed using Python and
 PySide6. It is designed to provide an interactive desktop experience
 through voice-based communication, AI-powered responses, system
@@ -48,7 +41,7 @@ Rather than relying on a traditional chatbot layout, AURA introduces
 a HUD-inspired interface that provides a more immersive way to
 interact with a desktop assistant.
 
-##  Key Features
+##  𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 ### 2.1 Futuristic HUD Interface
 
@@ -113,7 +106,7 @@ debug, and extend.
 
 ---
 
-##  Technology Stack
+##  𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤
 
 | Technology | Purpose |
 |---|---|
@@ -130,7 +123,7 @@ debug, and extend.
 
 ---
 
-##  Project Architecture
+##  𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
 
 AURA follows a modular architecture in which different components
 handle specific responsibilities.
@@ -176,7 +169,7 @@ AURA/
 ```
 ---
 
-## Installation and Setup
+## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐒𝐞𝐭𝐮𝐩
 Follow these steps to run AURA on your local machine.
 
 ### Prerequisites
