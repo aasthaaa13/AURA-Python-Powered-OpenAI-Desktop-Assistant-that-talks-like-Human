@@ -168,3 +168,17 @@ AURA/
 ├── main.py
 ├── README.md
 └── requirements.txt
+```
+---
+
+## 5.Installation and Setup
+Follow these steps to run AURA on your local machine.
+
+### Prerequisites
+Before installing the application, make sure you have:
+- Python installed.
+- Git installed.
+- Visual Studio Code or another Python-compatible editor.
+- A working microphone for voice input.
+- An internet connection for online speech recognition and
+- configured cloud AI services.
