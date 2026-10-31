@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="AURA Desktop Assistant" width="800"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python"/>
   <img src="https://img.shields.io/badge/GUI-PySide6-green?logo=qt"/>
   <img src="https://img.shields.io/badge/Platform-Desktop-lightgrey"/>
