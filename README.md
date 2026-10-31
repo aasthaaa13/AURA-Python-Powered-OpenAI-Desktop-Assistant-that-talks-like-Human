@@ -21,6 +21,15 @@
   <img src="https://img.shields.io/badge/License-MIT-blue"/>
 </p>
 
+`🌌 Explore` 
+`🎙️ Audio Input`
+`🗣️ Speech Engine`
+`✨ Discover`
+`🚀 Activate`
+`↗️ Initialize`
+`💬 Command Deck`
+`🤖 Enter Aura`
+
 ---
 
 ## 1. Overview
