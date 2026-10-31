@@ -28,7 +28,7 @@
 
 ---
 
-## 1. Overview
+##  Overview
 
 **AURA** is an AI-powered desktop assistant developed using Python and
 PySide6. It is designed to provide an interactive desktop experience
@@ -48,7 +48,7 @@ Rather than relying on a traditional chatbot layout, AURA introduces
 a HUD-inspired interface that provides a more immersive way to
 interact with a desktop assistant.
 
-## 2. Key Features
+##  Key Features
 
 ### 2.1 Futuristic HUD Interface
 
@@ -113,7 +113,7 @@ debug, and extend.
 
 ---
 
-## 3. Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -130,7 +130,7 @@ debug, and extend.
 
 ---
 
-## 4. Project Architecture
+##  Project Architecture
 
 AURA follows a modular architecture in which different components
 handle specific responsibilities.
@@ -176,7 +176,7 @@ AURA/
 ```
 ---
 
-## 5.Installation and Setup
+## Installation and Setup
 Follow these steps to run AURA on your local machine.
 
 ### Prerequisites
@@ -187,3 +187,7 @@ Before installing the application, make sure you have:
 - A working microphone for voice input.
 - An internet connection for online speech recognition and
 - configured cloud AI services.
+
+---
+
+
